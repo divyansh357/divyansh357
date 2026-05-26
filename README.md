@@ -212,12 +212,21 @@ public class Divyansh implements Builder, ProblemSolver {
 
 <div align="center">
 
-<!-- Activity graph: no custom_title spaces issue, straightforward params -->
+<!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh357&bg_color=0d1117&color=00e676&line=00c853&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
 <br/>
 
-<!-- Streak: demolab is reliable; background without # is correct -->
+<!-- Snake animation — generated daily by GitHub Actions (.github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=divyansh357&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00C85320&ring=00C853&fire=FF6F00&currStreakLabel=00E676&sideLabels=00E676&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
 </div>
