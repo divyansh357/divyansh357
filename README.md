@@ -1,22 +1,11 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════
-     HEADER  —  no animation, no desc, no emoji in URL
-     animation= removed (breaks GitHub camo proxy cache)
-     desc= removed (moved to typing SVG below)
-     ═══════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D1117%2C50%3A0D4A2A%2C100%3A00C853&height=180&section=header&text=Divyansh%20Kumar%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════
-     TYPING SVG  —  no raw emoji, no %F0 sequences in lines
-     ═══════════════════════════════════════════════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=800&color=00E676&center=true&vCenter=true&width=720&lines=Backend+Developer+%7C+Java+%2B+Spring+Boot;SIH+2025+Grand+Finalist+%40+AITR%2C+Indore;Top+2%25+India+AI+Impact+Buildathon+%E2%80%94+40%2C000%2B+participants;PostGIS+%7C+Microservices+%7C+JWT+%7C+Multithreading;Building+systems+that+serve+real+people" alt="Typing SVG"/>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════
-     BADGES  —  shields.io only, 100% reliable
-     ═══════════════════════════════════════════════════════ -->
 <a href="https://github.com/divyansh357"><img src="https://komarev.com/ghpvc/?username=divyansh357&style=flat-square&color=00C853&label=PROFILE+VIEWS"/></a>
 <a href="https://github.com/divyansh357?tab=followers"><img src="https://img.shields.io/github/followers/divyansh357?style=flat-square&color=FF6F00&labelColor=0D1117&label=Followers&logo=github"/></a>
 <a href="https://leetcode.com/u/divyansh_gupta_07/"><img src="https://img.shields.io/badge/LeetCode-divyansh__gupta__07-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0D1117"/></a>
@@ -66,6 +55,70 @@ public class Divyansh implements Builder, ProblemSolver {
 ```
 
 ---
+
+
+## `$ cat ./stats`
+
+<div align="center">
+
+<!-- GitHub Streak — demolab, confirmed reliable -->
+<img src="https://streak-stats.demolab.com?user=divyansh357&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00C85320&ring=00C853&fire=FF6F00&currStreakLabel=00E676&sideLabels=00E676&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- LeetCode Stats Card — live via leetcard.jacoblin.cool -->
+<a href="https://leetcode.com/u/divyansh_gupta_07/">
+  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&ext=contest&border=0&radius=8&site=com" alt="LeetCode Stats" width="49%"/>
+</a>
+&nbsp;
+<!-- LeetCode Heatmap — live activity calendar -->
+<a href="https://leetcode.com/u/divyansh_gupta_07/">
+  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=8&site=com" alt="LeetCode Heatmap" width="49%"/>
+</a>
+
+</div>
+
+---
+
+## `$ git log --oneline --graph`
+
+<div align="center">
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh357&bg_color=0d1117&color=00e676&line=00c853&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+
+<br/>
+
+<!-- Snake animation — generated daily by GitHub Actions (.github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+
+## `$ cat ./achievements.log`
+
+<div align="center">
+
+| &nbsp; | Event | Result | Scale |
+|:---:|---|---|---|
+| 🎯 | **Smart India Hackathon 2025** — Grand Finale, Dec 8–9 | **Finalist** | National · Govt. of India |
+| 🌟 | **India AI Impact Buildathon** — GUVI x HCL | **Top 2% National Finalist** | 40,000+ participants |
+| 🥈 | **Codespire 2.0** — GDGOC AITR, Dec 2024 | **1st Runner-Up** | College level |
+| 🔨 | **HackChrono** — Technicia'25, Chandigarh University | **Participant** | 48-hour national hackathon |
+| 🤝 | **AI for Impact Hackathon** — IEEE SB AITR, May 2025 | **Certificate of Appreciation** | Team: Bit Rebels |
+| 🌐 | **Indore Level Hackathon 2026** — DAVV SCSIT | **Participant** | Team: Bit Rebels |
+| 🎨 | **Tech-o-tsav 2024** — AITR National Tech Festival | **Participant** | Web designing competition |
+
+</div>
+
+---
+
 
 ## `$ ls -la ./projects`
 
@@ -151,23 +204,6 @@ public class Divyansh implements Builder, ProblemSolver {
 
 ---
 
-## `$ cat ./achievements.log`
-
-<div align="center">
-
-| &nbsp; | Event | Result | Scale |
-|:---:|---|---|---|
-| 🎯 | **Smart India Hackathon 2025** — Grand Finale, Dec 8–9 | **Finalist** | National · Govt. of India |
-| 🌟 | **India AI Impact Buildathon** — GUVI x HCL | **Top 2% National Finalist** | 40,000+ participants |
-| 🥈 | **Codespire 2.0** — GDGOC AITR, Dec 2024 | **1st Runner-Up** | College level |
-| 🔨 | **HackChrono** — Technicia'25, Chandigarh University | **Participant** | 48-hour national hackathon |
-| 🤝 | **AI for Impact Hackathon** — IEEE SB AITR, May 2025 | **Certificate of Appreciation** | Team: Bit Rebels |
-| 🌐 | **Indore Level Hackathon 2026** — DAVV SCSIT | **Participant** | Team: Bit Rebels |
-| 🎨 | **Tech-o-tsav 2024** — AITR National Tech Festival | **Participant** | Web designing competition |
-
-</div>
-
----
 
 ## `$ cat ./tech-stack.json`
 
@@ -208,30 +244,6 @@ public class Divyansh implements Builder, ProblemSolver {
 
 ---
 
-## `$ git log --oneline --graph`
-
-<div align="center">
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh357&bg_color=0d1117&color=00e676&line=00c853&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
-
-<br/>
-
-<!-- Snake animation — generated daily by GitHub Actions (.github/workflows/snake.yml) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-<br/>
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=divyansh357&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00C85320&ring=00C853&fire=FF6F00&currStreakLabel=00E676&sideLabels=00E676&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-
-</div>
-
----
 
 ## `$ ping ./connect`
 
@@ -260,9 +272,6 @@ public class Divyansh implements Builder, ProblemSolver {
                                        — Divyansh Kumar Gupta
 ```
 
-<!-- ═══════════════════════════════════════════════════════
-     FOOTER  —  no animation, minimal params
-     ═══════════════════════════════════════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A00C853%2C50%3A0D4A2A%2C100%3A0D1117&height=120&section=footer" width="100%"/>
 
 </div>
