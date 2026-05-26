@@ -1,16 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D1117%2C50%3A0D4A2A%2C100%3A00C853&height=210&section=header&text=Divyansh%20Kumar%20Gupta&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Ecosystem%20%7C%20Civic%20Tech%20Builder&descAlignY=60&descSize=15&descColor=00E676" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════
+     HEADER  —  no animation, no desc, no emoji in URL
+     animation= removed (breaks GitHub camo proxy cache)
+     desc= removed (moved to typing SVG below)
+     ═══════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D1117%2C50%3A0D4A2A%2C100%3A00C853&height=180&section=header&text=Divyansh%20Kumar%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=800&color=00E676&center=true&vCenter=true&width=720&lines=Aspiring+Backend+Developer+%7C+Java+%2B+Spring+Boot;SIH+2025+Grand+Finalist+%40+AITR%2C+Indore+%F0%9F%87%AE%F0%9F%87%B3;Top+2%25+India+AI+Impact+Buildathon+%E2%80%94+40%2C000%2B+participants;PostGIS+%7C+Microservices+%7C+JWT+%7C+Multithreading;Building+systems+that+serve+real+people" alt="Typing SVG"/>
+<!-- ═══════════════════════════════════════════════════════
+     TYPING SVG  —  no raw emoji, no %F0 sequences in lines
+     ═══════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=800&color=00E676&center=true&vCenter=true&width=720&lines=Backend+Developer+%7C+Java+%2B+Spring+Boot;SIH+2025+Grand+Finalist+%40+AITR%2C+Indore;Top+2%25+India+AI+Impact+Buildathon+%E2%80%94+40%2C000%2B+participants;PostGIS+%7C+Microservices+%7C+JWT+%7C+Multithreading;Building+systems+that+serve+real+people" alt="Typing SVG"/>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════
+     BADGES  —  shields.io only, 100% reliable
+     ═══════════════════════════════════════════════════════ -->
 <a href="https://github.com/divyansh357"><img src="https://komarev.com/ghpvc/?username=divyansh357&style=flat-square&color=00C853&label=PROFILE+VIEWS"/></a>
 <a href="https://github.com/divyansh357?tab=followers"><img src="https://img.shields.io/github/followers/divyansh357?style=flat-square&color=FF6F00&labelColor=0D1117&label=Followers&logo=github"/></a>
 <a href="https://leetcode.com/u/divyansh_gupta_07/"><img src="https://img.shields.io/badge/LeetCode-divyansh__gupta__07-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0D1117"/></a>
 <a href="https://www.linkedin.com/in/divyansh-gupta-062958237/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-<img src="https://img.shields.io/badge/Indore%2C%20MP-India%20%F0%9F%87%AE%F0%9F%87%B3-138808?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Indore%2C%20MP-India-138808?style=flat-square&labelColor=0D1117"/>
 
 </div>
 
@@ -23,11 +34,11 @@
 ```java
 /**
  * Divyansh Kumar Gupta  —  Backend Engineer
- * B.Tech Information Technology  @  AITR, Indore  (2023 – 27)
+ * B.Tech Information Technology  @  AITR, Indore  (2023–27)
  */
 public class Divyansh implements Builder, ProblemSolver {
 
-    final String LOCATION = "Indore, Madhya Pradesh 🇮🇳";
+    final String LOCATION = "Indore, Madhya Pradesh, India";
     final String FOCUS    = "Scalable backend systems + Civic & Governance Tech";
 
     String[] currentlyBuilding = {
@@ -147,7 +158,7 @@ public class Divyansh implements Builder, ProblemSolver {
 | &nbsp; | Event | Result | Scale |
 |:---:|---|---|---|
 | 🎯 | **Smart India Hackathon 2025** — Grand Finale, Dec 8–9 | **Finalist** | National · Govt. of India |
-| 🌟 | **India AI Impact Buildathon** — GUVI × HCL | **Top 2% National Finalist** | 40,000+ participants |
+| 🌟 | **India AI Impact Buildathon** — GUVI x HCL | **Top 2% National Finalist** | 40,000+ participants |
 | 🥈 | **Codespire 2.0** — GDGOC AITR, Dec 2024 | **1st Runner-Up** | College level |
 | 🔨 | **HackChrono** — Technicia'25, Chandigarh University | **Participant** | 48-hour national hackathon |
 | 🤝 | **AI for Impact Hackathon** — IEEE SB AITR, May 2025 | **Certificate of Appreciation** | Team: Bit Rebels |
@@ -162,24 +173,24 @@ public class Divyansh implements Builder, ProblemSolver {
 
 <div align="center">
 
-**⚙️ Core Language**
+**Core Language**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**🌱 Spring Ecosystem**
+**Spring Ecosystem**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-**🗄️ Databases**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**🛠️ Tools & DevOps**
+**Tools**
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -187,7 +198,7 @@ public class Divyansh implements Builder, ProblemSolver {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**📜 Certifications**
+**Certifications**
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-Java_Elite_Rank-00C853?style=for-the-badge&labelColor=0D1117)
 ![HackerRank](https://img.shields.io/badge/HackerRank-Java_Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117)
@@ -201,10 +212,12 @@ public class Divyansh implements Builder, ProblemSolver {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh357&bg_color=0d1117&color=00e676&line=00c853&point=ffffff&area=true&area_color=00c85315&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
+<!-- Activity graph: no custom_title spaces issue, straightforward params -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh357&bg_color=0d1117&color=00e676&line=00c853&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
 <br/>
 
+<!-- Streak: demolab is reliable; background without # is correct -->
 <img src="https://streak-stats.demolab.com?user=divyansh357&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00C85320&ring=00C853&fire=FF6F00&currStreakLabel=00E676&sideLabels=00E676&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 
 </div>
@@ -238,6 +251,9 @@ public class Divyansh implements Builder, ProblemSolver {
                                        — Divyansh Kumar Gupta
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A00C853%2C50%3A0D4A2A%2C100%3A0D1117&height=130&section=footer" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════
+     FOOTER  —  no animation, minimal params
+     ═══════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A00C853%2C50%3A0D4A2A%2C100%3A0D1117&height=120&section=footer" width="100%"/>
 
 </div>
