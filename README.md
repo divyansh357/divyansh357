@@ -86,19 +86,28 @@ public class Divyansh implements Builder, ProblemSolver {
 
 <br/><br/>
 
+<table>
+<tr>
+<td align="center" width="40%">
+
 **Problems Solved & Contest Rating**
 
 <a href="https://leetcode.com/u/divyansh_gupta_07/">
-  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&ext=contest&border=0&radius=8&site=com" alt="LeetCode Stats" width="60%"/>
+  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&ext=contest&border=0&radius=8&site=com" alt="LeetCode Stats" width="100%"/>
 </a>
 
-<br/><br/>
+</td>
+<td align="center" width="60%">
 
 **Submission Activity Heatmap**
 
 <a href="https://leetcode.com/u/divyansh_gupta_07/">
-  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=8&site=com" alt="LeetCode Heatmap" width="90%"/>
+  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=8&site=com" alt="LeetCode Heatmap" width="100%"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
