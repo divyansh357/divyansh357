@@ -95,7 +95,7 @@ public class Divyansh implements Builder, ProblemSolver {
 **Streak & Contribution Graph**
 
 <a href="https://leetcode.com/u/divyansh_gupta_07/">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=divyansh_gupta_07&theme=dark" alt="LeetCode Contribution Graph" width="90%"/>
+  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&ext=activity&border=0&radius=8&site=com" alt="LeetCode Contribution Graph" width="90%"/>
 </a>
 
 </div>
