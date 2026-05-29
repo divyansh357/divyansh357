@@ -56,33 +56,14 @@ public class Divyansh implements Builder, ProblemSolver {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=divyansh357&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00C85320&ring=00C853&fire=FF6F00&currStreakLabel=00E676&sideLabels=00E676&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh357&bg_color=0d1117&color=00e676&line=00c853&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
 
 ## 🧩 LeetCode Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Profile-divyansh__gupta__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/divyansh_gupta_07/">
+  <img src="https://img.shields.io/badge/Profile-divyansh__gupta__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 <br/><br/>
 
@@ -109,9 +90,41 @@ public class Divyansh implements Builder, ProblemSolver {
 </tr>
 </table>
 
+<br/>
+
+**Streak & Contribution Graph**
+
+<a href="https://leetcode.com/u/divyansh_gupta_07/">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=divyansh_gupta_07&theme=dark" alt="LeetCode Contribution Graph" width="90%"/>
+</a>
+
 </div>
 
 ---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=divyansh357&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00C85320&ring=00C853&fire=FF6F00&currStreakLabel=00E676&sideLabels=00E676&dates=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh357&bg_color=0d1117&color=00e676&line=00c853&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/divyansh357/divyansh357/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
 
 ## `$ cat ./achievements.log`
 
