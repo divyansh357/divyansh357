@@ -90,6 +90,14 @@ public class Divyansh implements Builder, ProblemSolver {
 </tr>
 </table>
 
+<br/>
+
+**LeetCode Submission Graph — Last 30 Days**
+
+<a href="https://leetcode.com/u/divyansh_gupta_07/">
+  <img src="https://raw.githubusercontent.com/divyansh357/divyansh357/output/leetcode-contribution-graph.svg" alt="LeetCode Contribution Graph" width="100%"/>
+</a>
+
 </div>
 
 ---
