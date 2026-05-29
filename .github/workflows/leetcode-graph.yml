@@ -1,0 +1,43 @@
+name: Generate LeetCode Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # runs daily at 12:00 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate LeetCode graph SVG
+        env:
+          LEETCODE_USERNAME: divyansh_gupta_07
+        run: python3 .github/scripts/generate_leetcode_graph.py
+
+      - name: Push SVG to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
+          keep_files: true        # keeps snake SVGs already in output branch
+          force_orphan: false
