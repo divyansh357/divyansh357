@@ -71,16 +71,16 @@ public class Divyansh implements Builder, ProblemSolver {
 <tr>
 <td align="center" width="40%">
 
-**Problems Solved & Contest Rating**
+**Problems Solved**
 
 <a href="https://leetcode.com/u/divyansh_gupta_07/">
-  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&ext=contest&border=0&radius=8&site=com" alt="LeetCode Stats" width="100%"/>
+  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&border=0&radius=8&site=com" alt="LeetCode Stats" width="100%"/>
 </a>
 
 </td>
 <td align="center" width="60%">
 
-**Submission Activity Heatmap**
+**Submission Heatmap**
 
 <a href="https://leetcode.com/u/divyansh_gupta_07/">
   <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=8&site=com" alt="LeetCode Heatmap" width="100%"/>
@@ -89,14 +89,6 @@ public class Divyansh implements Builder, ProblemSolver {
 </td>
 </tr>
 </table>
-
-<br/>
-
-**Streak & Contribution Graph**
-
-<a href="https://leetcode.com/u/divyansh_gupta_07/">
-  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&ext=activity&border=0&radius=8&site=com" alt="LeetCode Contribution Graph" width="90%"/>
-</a>
 
 </div>
 
