@@ -23,7 +23,7 @@
 ```java
 /**
  * Divyansh Kumar Gupta  —  Backend-focused Software Engineer
- * B.Tech Information Technology  @  AITR, Indore  (2023–27)  |  Aggregate: 75.20%
+ * B.Tech Information Technology  @  AITR, Indore  (2023–27)
  */
 public class Divyansh implements Builder, ProblemSolver {
 
@@ -181,20 +181,6 @@ public class Divyansh implements Builder, ProblemSolver {
 ![NPTEL](https://img.shields.io/badge/NPTEL-Java_Elite_Rank-00C853?style=for-the-badge&labelColor=0D1117)
 ![HackerRank Java](https://img.shields.io/badge/HackerRank-Java_Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117)
 ![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL_Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117)
-
-</div>
-
----
-
-## `$ cat ./education.txt`
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| **B.Tech — Information Technology** | AITR, Indore (RGPV Bhopal) | 2023 – 2027 | 75.20% aggregate |
-| **HSC (CBSE)** | Shri Vaishnav Academy | 2022 | 83.20% |
-| **SSC (CBSE)** | Providence Convent High School | 2020 | 68.40% |
 
 </div>
 
