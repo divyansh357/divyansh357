@@ -51,43 +51,6 @@ public class Divyansh implements Builder, ProblemSolver {
 
 ---
 
-## 🧩 LeetCode Stats
-
-<div align="center">
-
-<a href="https://leetcode.com/u/divyansh_gupta_07/">
-  <img src="https://img.shields.io/badge/Profile-divyansh__gupta__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="40%">
-
-**Problems Solved**
-
-<a href="https://leetcode.com/u/divyansh_gupta_07/">
-  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&border=0&radius=8&site=com" alt="LeetCode Stats" width="100%"/>
-</a>
-
-</td>
-<td align="center" width="60%">
-
-**Submission Heatmap**
-
-<a href="https://leetcode.com/u/divyansh_gupta_07/">
-  <img src="https://leetcard.jacoblin.cool/divyansh_gupta_07?theme=dark&font=source_code_pro&ext=heatmap&border=0&radius=8&site=com" alt="LeetCode Heatmap" width="100%"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -96,7 +59,7 @@ public class Divyansh implements Builder, ProblemSolver {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyansh357&bg_color=0d1117&color=00e676&line=00c853&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+<img src="https://ghchart.rshah.org/00C853/divyansh357" width="100%" alt="GitHub Contribution Calendar"/>
 
 <br/>
 
