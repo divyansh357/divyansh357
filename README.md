@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0D1117%2C50%3A0D4A2A%2C100%3A00C853&height=180&section=header&text=Divyansh%20Kumar%20Gupta&fontSize=52&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=800&color=00E676&center=true&vCenter=true&width=720&lines=Backend+Developer+%7C+Java+%2B+Spring+Boot;SIH+2025+Grand+Finalist+%40+AITR%2C+Indore;Top+2%25+India+AI+Impact+Buildathon+%E2%80%94+40%2C000%2B+participants;PostGIS+%7C+Microservices+%7C+JWT+%7C+Multithreading;Building+systems+that+serve+real+people" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=800&color=00E676&center=true&vCenter=true&width=720&lines=Backend-focused+Software+Engineer;Java+%7C+SQL+%7C+PostgreSQL+%7C+REST+APIs;SIH+2025+Finalist+%40+AITR%2C+Indore;Top+2%25+National+Finalist+%E2%80%94+India+AI+Impact+Buildathon;AWS+Certified+Cloud+Practitioner;Building+systems+that+serve+real+people" alt="Typing SVG"/>
 
 <br/>
 
@@ -22,29 +22,24 @@
 
 ```java
 /**
- * Divyansh Kumar Gupta  —  Backend Engineer
- * B.Tech Information Technology  @  AITR, Indore  (2023–27)
+ * Divyansh Kumar Gupta  —  Backend-focused Software Engineer
+ * B.Tech Information Technology  @  AITR, Indore  (2023–27)  |  Aggregate: 75.20%
  */
 public class Divyansh implements Builder, ProblemSolver {
 
     final String LOCATION = "Indore, Madhya Pradesh, India";
-    final String FOCUS    = "Scalable backend systems + Civic & Governance Tech";
+    final String FOCUS    = "Efficient server-side systems & scalable software";
 
-    String[] currentlyBuilding = {
-        "CivicPulse  — AI-powered urban issue reporting platform",
-        "Gurukulam   — Real-time classroom orchestration engine",
+    String[] skills = {
+        "Java", "SQL", "OOPs", "RESTful APIs",
+        "PostgreSQL", "MySQL", "Postman", "Git"
     };
 
-    String[] techStack = {
-        "Java", "Spring Boot", "Spring Security", "Hibernate",
-        "PostgreSQL", "PostGIS", "JWT", "FCM", "Maven", "Git"
-    };
+    String[] currentlyLearning = { "Spring Boot", "DevOps", "AWS" };
 
-    String[] superPowers = {
-        "Geospatial queries with PostGIS",
-        "Multi-tenant SaaS architecture",
-        "Concurrent session management",
-        "RESTful API design at scale"
+    String[] certified = {
+        "AWS Certified Cloud Practitioner (CLF-C02)",
+        "NPTEL Programming in Java — Elite Rank"
     };
 
     @Override
@@ -55,7 +50,6 @@ public class Divyansh implements Builder, ProblemSolver {
 ```
 
 ---
-
 
 ## 🧩 LeetCode Stats
 
@@ -90,11 +84,9 @@ public class Divyansh implements Builder, ProblemSolver {
 </tr>
 </table>
 
-
 </div>
 
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -118,20 +110,17 @@ public class Divyansh implements Builder, ProblemSolver {
 
 ---
 
-
 ## `$ cat ./achievements.log`
 
 <div align="center">
 
-| &nbsp; | Event | Result | Scale |
-|:---:|---|---|---|
-| 🎯 | **Smart India Hackathon 2025** — Grand Finale, Dec 8–9 | **Finalist** | National · Govt. of India |
-| 🌟 | **India AI Impact Buildathon** — GUVI x HCL | **Top 2% National Finalist** | 40,000+ participants |
-| 🥈 | **Codespire 2.0** — GDGOC AITR, Dec 2024 | **1st Runner-Up** | College level |
-| 🔨 | **HackChrono** — Technicia'25, Chandigarh University | **Participant** | 48-hour national hackathon |
-| 🤝 | **AI for Impact Hackathon** — IEEE SB AITR, May 2025 | **Certificate of Appreciation** | Team: Bit Rebels |
-| 🌐 | **Indore Level Hackathon 2026** — DAVV SCSIT | **Participant** | Team: Bit Rebels |
-| 🎨 | **Tech-o-tsav 2024** — AITR National Tech Festival | **Participant** | Web designing competition |
+| &nbsp; | Achievement | Details |
+|:---:|---|---|
+| 🎯 | **Smart India Hackathon 2025 — Finalist** | Ministry of Tribal Affairs, Forest Rights Act problem statement |
+| 🥈 | **Codespire 2.0 — 1st Runner-Up** | College-level coding competition, GDGOC AITR Indore (Dec 2024) |
+| 🌟 | **India AI Impact Buildathon — Top 2% National Finalist** | Among 40,000+ participants across India (GUVI x HCL, Feb 2026) |
+| 🔨 | **Hackathon Participant** | HackChrono (Chandigarh University) |
+| 📣 | **Marketing Head** | Shagal the Hobby Club |
 
 </div>
 
@@ -143,19 +132,16 @@ public class Divyansh implements Builder, ProblemSolver {
 <tr>
 <td width="50%" valign="top">
 
-### 🏙️ CivicPulse
-**Smart Urban Governance Platform**
+### 🏙️ Civic-Saathi
+**Crowdsourced Civic Issue Reporting & Resolution System**
 
-> Mobile-first civic platform bridging citizens & municipalities via AI
+> Mobile-first urban governance platform connecting citizens and municipalities
 
-- 📍 Geo-deduplication to prevent duplicate reports
-- 🗺️ **PostGIS** spatial routing for issue assignment
-- 🔐 JWT-secured microservices architecture
-- 🔔 FCM real-time push notifications
+- 🧱 Developed backend services for the governance platform
+- 🤖 Formulated backend logic and worked on the AI module for automated routing of civic issues
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Services-00C853?style=flat-square&labelColor=0D1117)
+![AI Module](https://img.shields.io/badge/AI-Automated_Routing-7C3AED?style=flat-square&labelColor=0D1117)
 
 *Jan – May 2026*
 
@@ -163,57 +149,19 @@ public class Divyansh implements Builder, ProblemSolver {
 <td width="50%" valign="top">
 
 ### 🌿 Astitva
-**Forest Rights Management System**
+**AI-Driven Forest Rights Management & Governance Platform**
 
-> AI-driven FRA claim digitization — SIH 2025, Ministry of Tribal Affairs
+> Built for SIH 2025 — Ministry of Tribal Affairs
 
-- 🗺️ Geospatial FRA claim mapping across multiple states
-- 🔍 PostGIS spatial query optimization
-- 📋 Multi-state schema design at governance scale
-- 🤝 Active collaboration with MoTA
+- 🏗️ Architected and developed an end-to-end platform to digitize, validate and map Forest Rights claims
+- 📄 Integrated **Surya OCR** to digitize claims
+- 🗺️ **WebGIS** spatial tracking + automated **Decision Support System (DSS)**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Surya OCR](https://img.shields.io/badge/Surya-OCR-FF6F00?style=flat-square&labelColor=0D1117)
+![WebGIS](https://img.shields.io/badge/WebGIS-Spatial_Tracking-336791?style=flat-square&labelColor=0D1117)
+![DSS](https://img.shields.io/badge/DSS-Decision_Support-0A66C2?style=flat-square&labelColor=0D1117)
 
-*Aug – Dec 2025*
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Gurukulam
-**Real-Time Classroom Orchestration**
-
-> Concurrent multi-session learning platform for live collaboration
-
-- 🔄 Concurrent **WebRTC** session management
-- 🔒 Spring Security **RBAC** access control
-- 📊 Optimised DB for scalable classroom state
-- ⚡ Designed for high-concurrency workloads
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-
-*Mar – May 2026*
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 Enginow *(Internship)*
-**Multi-Tenant SaaS Backend**
-
-> Edtech platform bridging academia and industry
-
-- 🏗️ Multi-tenant architecture with full data isolation
-- 🔌 RESTful APIs with optimised PostgreSQL schemas
-- 🧩 Hibernate ORM + Spring Data clean data layer
-- 📦 Built for concurrent multi-organisation usage
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-*Jan – Feb 2026*
+*Sep – Dec 2025*
 
 </td>
 </tr>
@@ -221,40 +169,69 @@ public class Divyansh implements Builder, ProblemSolver {
 
 ---
 
+## `$ cat ./experience.txt`
+
+<div align="center">
+
+| Role | Company | Duration |
+|---|---|---|
+| **Backend Developer Intern** | Enginow | Jan – Feb 2026 |
+
+</div>
+
+- 🛠️ Worked on backend development for **SaaS, e-commerce, and user registration** applications using **Node.js and PostgreSQL**
+- 🧪 Developed and tested **REST APIs** using Postman, following a maintainable service architecture
+
+---
+
 ## `$ cat ./tech-stack.json`
 
 <div align="center">
 
-**Core Language**
+**Languages & Core**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Spring Ecosystem**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPs-Concepts-00C853?style=for-the-badge&labelColor=0D1117)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools**
+**APIs & Tools**
 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful-APIs-FF6C37?style=for-the-badge&labelColor=0D1117)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Currently Learning**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Learning-0A66C2?style=for-the-badge&labelColor=0D1117)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Certifications**
 
+![AWS CCP](https://img.shields.io/badge/AWS-Cloud_Practitioner_CLF--C02-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E)
 ![NPTEL](https://img.shields.io/badge/NPTEL-Java_Elite_Rank-00C853?style=for-the-badge&labelColor=0D1117)
-![HackerRank](https://img.shields.io/badge/HackerRank-Java_Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117)
-![Sanfoundry](https://img.shields.io/badge/Sanfoundry-Java_Certified-FF6F00?style=for-the-badge&labelColor=0D1117)
+![HackerRank Java](https://img.shields.io/badge/HackerRank-Java_Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117)
+![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL_Basic-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117)
+
+</div>
+
+---
+
+## `$ cat ./education.txt`
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| **B.Tech — Information Technology** | AITR, Indore (RGPV Bhopal) | 2023 – 2027 | 75.20% aggregate |
+| **HSC (CBSE)** | Shri Vaishnav Academy | 2022 | 83.20% |
+| **SSC (CBSE)** | Providence Convent High School | 2020 | 68.40% |
 
 </div>
 
@@ -272,8 +249,8 @@ public class Divyansh implements Builder, ProblemSolver {
   <img src="https://img.shields.io/badge/LeetCode-divyansh__gupta__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
-<a href="mailto:divyanshkumargupta532@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-divyanshkumargupta532-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:divyanshgupta2115@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-divyanshgupta2115-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/divyansh357">
