@@ -128,6 +128,27 @@ public class Divyansh implements Builder, ProblemSolver {
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🕵️ Agentic Honeypot
+**AI-Powered Scam Detection & Intelligence Extraction**
+
+> AI-driven honeypot that engages suspicious senders through automated conversations
+
+- 🤖 Developed an AI-driven honeypot using **Python and FastAPI** to detect scam messages and engage suspicious senders through automated conversations
+- 🔍 Implemented **hybrid scam detection** and **intelligence extraction** of bank accounts, UPI IDs, phone numbers and phishing links
+- 🔗 Built **session management** and automated **GUVI callback integration**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Scam Detection](https://img.shields.io/badge/Hybrid-Scam_Detection-FF6F00?style=flat-square&labelColor=0D1117)
+![Intelligence Extraction](https://img.shields.io/badge/Intelligence-Extraction-7C3AED?style=flat-square&labelColor=0D1117)
+
+*Jan – Feb 2026*
+
+</td>
+</tr>
 </table>
 
 ---
